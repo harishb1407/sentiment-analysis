@@ -16,4 +16,4 @@ The following deep learning algorithms were used for performing sentiment analys
 
 PowerBI from Microsoft was used as the business intelligence tool.
 
-Authors: [Harish Balasubramaniam](https://github.com/harishb1407), [Zeel Desai](https://www.linkedin.com/in/zeel-desai-555202180/), [Karishma Anklesaria](https://www.linkedin.com/in/karishma-anklesaria-72a5b320a/)
+Authors: [Harish Balasubramaniam](https://www.linkedin.com/in/harish-balasubramaniam/), [Zeel Desai](https://www.linkedin.com/in/zeel-desai-555202180/), [Karishma Anklesaria](https://www.linkedin.com/in/karishma-anklesaria-72a5b320a/)
